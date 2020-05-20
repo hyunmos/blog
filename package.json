@@ -1,0 +1,8 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hyunmos/blog.git",
+  "author": "Hyunmo Ahn<mos_dev@naver.com>",
+  "license": "MIT"
+}
