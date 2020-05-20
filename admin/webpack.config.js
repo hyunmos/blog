@@ -29,7 +29,7 @@ module.exports = {
   module: {
     rules: [
       {
-        test: '/.jsx?$/',
+        test: /\.jsx?$/,
         exclude: /node_moduels/,
         include: ADMIN_SRC_PATH,
         use: ['babel-loader', 'eslint-loader'],
